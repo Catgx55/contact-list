@@ -19,7 +19,3 @@ function listaContactos(){
 }
 
 const contactos = ["Cesar Trujillo", "Andy Trujillo", "Henry Trujillo", "Henry Giraldo",];
-listaContactos();
-console.log(" ");
-agregar("Maria Torres");
-listaContactos();
